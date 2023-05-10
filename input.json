@@ -1,0 +1,18 @@
+{
+  "dados-basicos": {
+    "valor-mercado": 385000,
+    "valor-venal-referencia": 400000,
+    "valor-lance": 230000,
+    "financiar": true,
+    "objetivo": "INVESTIR"
+  },
+  "informacoes-investidor": {
+    "selic-atual": 2,
+    "lucro-minimo-desejado": 15,
+    "tempo-para-revenda": 10,
+    "cota-financiamento": 80,
+    "cet-financiamento": 9.15,
+    "condominio-mensal": 300,
+    "desconto-revenda": 6
+  }
+}
